@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+.volver{
+    box-shadow: -1px 0px 20px rgb(13, 117, 13);
+    border-radius: 50%;
+}
+.titulo{
+    text-shadow: 2px 2px 15px rgb(13, 117, 13);
+    margin-top: -60px; 
+    padding-left: 350px;
+}
+.texto{
+    color: rgb(10, 64, 10);
+}
+.lista{
+    margin-left: 350px;
+    margin-top: -300px;
+}

@@ -58,16 +58,15 @@ a{
 
 #block-text{
     padding-top: -100px;
-    margin-top: 100px;
+    margin-top: 100px;  
+    margin-left: 100px;
     
 }
 
 #card-1{
-    width: 40rem;
-    height: 300rem;
-    position: absolute;
-    right: 5rem;
-}
+    margin-left: 700px;
+    margin-top: 40px;
+}   
 
 #img1{
     padding-top: -100px;

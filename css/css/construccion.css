@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+
+.volver{
+    box-shadow: -1px 0px 20px rgb(186, 57, 10);
+    border-radius: 50%;
+}
+.cabe{
+    text-shadow: 2px 2px 15px rgb(186, 57, 10);
+    margin-top: -60px; 
+    padding-left: 350px;
+}
+.lista{
+    margin-left: 350px;
+    margin-top: -300px;
+}

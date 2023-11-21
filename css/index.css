@@ -57,9 +57,9 @@ a{
 }
 
 #block-text{
-    position: relative;
-    bottom: -7rem;
-    right: -7rem;
+    padding-top: -100px;
+    margin-top: 100px;
+    
 }
 
 #card-1{
@@ -67,7 +67,6 @@ a{
     height: 300rem;
     position: absolute;
     right: 5rem;
-    top: 12rem;
 }
 
 #img1{

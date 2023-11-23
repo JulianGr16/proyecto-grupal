@@ -64,7 +64,7 @@ a{
 }
 
 #card-1{
-    margin-left: 700px;
+    margin-left: 650px;
     margin-top: 40px;
 }   
 
@@ -101,14 +101,17 @@ a{
     left: 53rem;
 }
 
+.dx{
+    margin-bottom: -300px;
+}
 
 .text-cont{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     font-size: 1.2rem;
     margin-top: 50rem;
-    margin-right: 25rem;
-
+    margin-right: 20px;
+    margin-left: 60px;
 }
 
 .img-redes{

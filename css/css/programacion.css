@@ -1,19 +1,47 @@
 body{
-    background-color: beige;
+    background: #304352;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+a{
+    color: black;
+}
+.jj{
+    border: none;
+    background-color:rgb(100, 117, 173);
+    opacity: 0.7;
+    box-shadow: -1px 0px 20px rgb(13, 37, 117);
 }
 .volver{
-    box-shadow: -1px 0px 20px rgb(13, 117, 13);
-    border-radius: 50%;
+    box-shadow: -1px 0px 20px rgb(13, 37, 117);
+    border-radius: 70%;
+    cursor: pointer;
+}
+.ima{
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    border-radius: 50px;
+    opacity: 0.6;
 }
 .titulo{
-    text-shadow: 2px 2px 15px rgb(13, 117, 13);
-    margin-top: -60px; 
+    color: rgb(18, 18, 16);
+    text-shadow: 2px 2px 15px rgb(13, 37, 117);
+    margin-top: -40px; 
     padding-left: 350px;
 }
 .texto{
-    color: rgb(10, 64, 10);
+    font-size: 20px;
+    margin-top: -250px;
 }
 .lista{
+    display: flex;
+    justify-content:space-evenly;
     margin-left: 350px;
-    margin-top: -300px;
+    margin-bottom: -200px;
+    margin-top: -200px;
+}
+.pie{
+    margin-top: 350px;
 }
